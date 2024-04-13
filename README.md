@@ -1,22 +1,20 @@
-# Instalando os pacotes
+# API de vilões usando python
 
+# Comandos
+- Consigurar ambiente
 ```bash
 python setup.py develop
 ```
 
-# Para rodar a API
-
+- Executar programa
 ```bash
 python app.py
 ```
 
-# Checar na URL do navegador
+URL do navegador = localhost:5000/inimigos
 
-```bash
-localhost:5000/inimigos
-```
 
-# Resultado
+# Resultados
 
 <span align="center">
   <img src="https://user-images.githubusercontent.com/85804895/133950467-85462fd8-bb46-4737-9073-fec08b923aa5.png">
